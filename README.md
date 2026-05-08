@@ -17,7 +17,7 @@ Sentence generation pipeline (using Gemini 3.1 Pro):
 4. Save the final output to CSV and import into Anki.
 
 TTS:
-- Audio synthesized with Gemini 3.1 Flash TTS.
+- Audio synthesized with Gemini 3.1 Flash TTS using HyperTTS.
 
 License:
 This deck is based on the Norwegian Kelly list, find it here: https://www.hf.uio.no/iln/english/about/organisation/text-laboratory/services/kelly.html.
